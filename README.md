@@ -34,6 +34,6 @@
 <h2 align="center" style="margin: 5px 10px;">Contacta conmigo en:</h2> 
   
 [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:marcogoitialazarte@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-gabriel-goitia-lazarte-28313a224/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcogoitia/)
 
 </div>
