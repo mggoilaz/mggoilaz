@@ -33,7 +33,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Contacta conmigo en:</h2> 
   
-[![Gmail](https://img.shields.io/badge/Gmail-3DDC84?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:marcogoitialazarte@gmail.com)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcogoitialazarte@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcogoitia/)
 
 </div>
