@@ -34,7 +34,6 @@
 <h2 align="center" style="margin: 5px 10px;">Contacta conmigo en:</h2> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/mggoilaz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mggoilaz)
 [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcogoitialazarte@gmail.com)
 
 </div>
