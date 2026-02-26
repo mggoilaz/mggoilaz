@@ -21,16 +21,6 @@
 
  ---
 
- <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mggoilaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mggoilaz&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
