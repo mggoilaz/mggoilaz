@@ -20,7 +20,13 @@
 
 
  ---
+<p align="center">
+  <b>📊 GitHub Activity</b>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mggoilaz/mggoilaz/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
 ---
 
