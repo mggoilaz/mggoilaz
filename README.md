@@ -4,17 +4,18 @@
 
 ---
 
-<h3 align="center">Soy estudiante de informática de Desarrollo de Aplicaciones Web</h3>
+<h3 align="center">Desarrollador Frontend/Fullstack, diseñador UX/UI e innovación tecnológica | CEO de Altamedia Creation S.L.</h3>
   <img align="right" alt="GIF" height="140px" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM4ZHRpcGMzMGEydWZhaGR1NGxnMTYwODN4enJnMzgxdHJ2N3E1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
--  💻 Actualmente me enfoco en aprender desarrollo de aplicaciones web utilizando tecnologias como Javascript, React, Vue.js, etc.
+-  💻  Actualmente trabajo en un portfolio de proyectos que incluye plataformas SaaS, herramientas potenciadas por IA y sitios web.
+
 
   
--  💪 Mis metas a futuro son seguir aprendiendo nuevas tecnologías y poder crear ideas innovadoras. 
+-  📚 Graduado en Desarrollo de Aplicaciones Web (DAW), sigo formándome en nuevas tecnologías y en integrar IA en mi flujo de trabajo diario.
   
 
-- 🕺🏻​ Un dato curioso sobre mí ademas de estudiar disfruto mucho bailar me ayuda a relajarme.
+- 🕺🏻 Fuera del código, disfruto bailar, es mi forma favorita de desconectar.
   
 
 
@@ -36,4 +37,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/mggoilaz)
 [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcogoitialazarte@gmail.com)
 
-</div>
+</div> 
